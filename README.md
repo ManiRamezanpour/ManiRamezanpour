@@ -15,7 +15,7 @@ I am a JS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 <div align="center">
 <a href="">
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-</>
+</a>
 </div>
 
 ---
