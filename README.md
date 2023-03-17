@@ -13,9 +13,9 @@ I am a JS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### 📌 My Social
 
 <div align="center">
-<a href="">
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-</a>
+
 </div>
 
 ---
