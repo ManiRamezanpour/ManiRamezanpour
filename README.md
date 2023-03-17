@@ -14,10 +14,7 @@ I am a JS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 <div align="center">
 <a href="">
-[![My Socila](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-</>
-<a href="">
-[![My Socila](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 </>
 </div>
 
