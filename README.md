@@ -13,8 +13,12 @@ I am a JS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ### 📌 My Social
 
 <div align="center">
-
-    
+<a href="">
+[![My Socila](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+</>
+<a href="">
+[![My Socila](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+</>
 </div>
 
 ---
@@ -23,21 +27,9 @@ I am a JS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### 👨‍💻 Programming and Markup Language :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql,)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries :
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge)
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?logo=Swiper&logoColor=white&style=for-the-badge)
-
+[![My Skills](https://skillicons.dev/icons?i=react,redux,express,tailwind,bootstrap,swiper)](https://skillicons.dev)
 ### 💻 Software and Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?logo=VisualStudioCode&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe&nbsp;Illustrator-FF9A00?logo=AdobeIllustrator&logoColor=white&style=for-the-badge)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
-![GitHub Desktop](https://img.shields.io/badge/GitHub&nbsp;Desktop-8034a9?logo=GitHub&logoColor=white&style=for-the-badge)
-![GitKraken](https://img.shields.io/badge/GitKraken-179287?logo=GitKraken&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,git,github)](https://skillicons.dev)
