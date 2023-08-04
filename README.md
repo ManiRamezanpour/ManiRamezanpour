@@ -43,6 +43,11 @@ I am a JS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 <div  style="display: flex; flex-direction: row;>
   <a href="https://github.com/ManiRamezanpour">
     <img width="47%" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManiRamezanpour&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img width="45%" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManiRamezanpour&layout=compact&langs_count=8&theme=radical"/>
+<img width="50%" align="right" src="https://i.imgur.com/kWJpUr0.giff">
+<a href="https://wakatime.com/@Manirmp" target="_blank">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Manirmp
+&border_radius=5px&border_color=fff&icon_color=58a6ff&show_icons=true&langs_count=10&theme=gruvbox">
+<a/>
+
   </a>
 </p>
