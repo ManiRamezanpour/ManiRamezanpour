@@ -51,6 +51,6 @@ I am a JS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Manirmp
 &border_radius=5px&border_color=fff&icon_color=58a6ff&show_icons=true&langs_count=10&theme=gruvbox">
 <a/>
-
+    <a href="https://wakatime.com/@f6cba48f-6d25-40e0-89e0-0a5d03af2dc1"><img src="https://wakatime.com/badge/user/f6cba48f-6d25-40e0-89e0-0a5d03af2dc1.svg" alt="Total time coded since Apr 3 2023" /></a>
   </a>
 </p>
