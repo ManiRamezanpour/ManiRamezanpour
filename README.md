@@ -15,8 +15,11 @@ I am a JS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ### 📌 My Social
 
-
+<a href="https://www.linkedin.com/in/mani-ramezanpour">
+<i>    
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+</i>
+</a>
 ---
 
 ### 🛠  Languages :
