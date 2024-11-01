@@ -34,7 +34,7 @@ I am a Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 👨‍💻 Programming and Markup Language :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,PHP,java,nodejs,mongodb,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,nodejs,mongodb,mysql,)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries :
 [![My Skills](https://skillicons.dev/icons?i=react,redux,express,tailwind,bootstrap,swiper)](https://skillicons.dev)
