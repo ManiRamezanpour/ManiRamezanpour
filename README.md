@@ -4,7 +4,7 @@
 
 ### 👨🏻‍🦱 About Me 
 
-I am a JS developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am a Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
 - 🔭 As a FullStack JS developer, I create web applications.
 - 🌎 I'm based in Iran
