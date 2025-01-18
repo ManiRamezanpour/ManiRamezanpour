@@ -7,8 +7,15 @@ I am **ManiRamezanpour(JavaScript Software Developer)**. I ✨ like ✨  problem
 - 🌱 I’m currently learning system architecture
 - 🤓 I’m diving deep into designing robust and efficient systems.
 - 
-- 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
-- 📫 How to reach me:DM 📱 emailmaniramznpoor2007@gmail.com.
+💬 Dive into the intricacies of high-quality coffee brews
+
+☕️ Share your passion for artisanal roasts and brewing techniques
+
+🌍 Discuss your latest travel adventures and seek new destinations
+
+💡 Solve tech puzzles and chat about cutting-edge innovations
+
+🤔 Seek out life advice and have thought-provoking conversations- 📫 How to reach me:DM 📱 emailmaniramznpoor2007@gmail.com.
 
 ## 🤝 Connect with me:
 
