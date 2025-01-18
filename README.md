@@ -15,7 +15,7 @@ I am **ManiRamezanpour(JavaScript Software Developer)**. I ✨ like ✨  problem
 
 💡 Solve tech puzzles and chat about cutting-edge innovations
 
-🤔 Seek out life advice and have thought-provoking conversations- 📫 How to reach me:DM 📱 emailmaniramznpoor2007@gmail.com.
+🤔 Seek out life advice and have thought-provoking conversations- 📫 How to reach me:DM 📱 maniramznpoor2007@gmail.com
 
 ## 🤝 Connect with me:
 <div align="center">
