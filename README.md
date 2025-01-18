@@ -38,19 +38,20 @@ I am **ManiRamezanpour(JavaScript Software Developer)**. I ✨ like ✨  problem
 
 
 ## 💼 Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,java,HTML,css,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,java,html,css,mongodb,mysql,postgres)](https://skillicons.dev)
 </br>
 
 ### 🧰 Frameworks and Libraries :
-[![My Skills](https://skillicons.dev/icons?i=express,nestjs,prisma,react,nextjs,jest,rabbitmq,vite,tailwind,bootstrap,mui,swiper)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nestjs,prisma,react,nextjs,jest,rabbitmq,vite,tailwind,bootstrap,mui,swiper,redis)](https://skillicons.dev)
 ### 💻 Software and Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,git,github,gitlab,nginx,docker,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,webstorm,ps,git,github,gitlab,nginx,docker,kafka)](https://skillicons.dev)
 
-
+##  Other programming Skills
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,svelet,c++,c#,astro,arduino)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
-[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=ManiRamezanpour)](https://github.com/deepajarout)
+[![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=ManiRamezanpour)](https://github.com/ManiRamezanpour)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiRamezanpour&layout=compact)](https://github.com/ManiRamezanpour)
 
