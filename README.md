@@ -42,9 +42,9 @@ I am **ManiRamezanpour(JavaScript Software Developer)**. I ✨ like ✨  problem
 </br>
 
 ### 🧰 Frameworks and Libraries :
-[![My Skills](https://skillicons.dev/icons?i=express,nestjs,prisma,typeorm,reactjs,nextjs,jest,rabbitmq,vite,,tailwind,bootstrap,mui,swiper)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nestjs,prisma,react,nextjs,jest,rabbitmq,vite,tailwind,bootstrap,mui,swiper)](https://skillicons.dev)
 ### 💻 Software and Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,git,github,nginx,docker,,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,git,github,gitlab,nginx,docker,kafka)](https://skillicons.dev)
 
 
 
