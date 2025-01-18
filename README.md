@@ -18,7 +18,7 @@ I am **ManiRamezanpour(JavaScript Software Developer)**. I ✨ like ✨  problem
 🤔 Seek out life advice and have thought-provoking conversations- 📫 How to reach me:DM 📱 maniramznpoor2007@gmail.com
 
 ## 🤝 Connect with me:
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/mani-ramezanpour/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a> 
@@ -44,7 +44,7 @@ I am **ManiRamezanpour(JavaScript Software Developer)**. I ✨ like ✨  problem
 ### 🧰 Frameworks and Libraries :
 [![My Skills](https://skillicons.dev/icons?i=react,redux,express,nestjs,prisma,tailwind,bootstrap,mui,swiper)](https://skillicons.dev)
 ### 💻 Software and Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,git,github,nginx,docker,k8n,kafka)](https://skillicons.dev)
 
 
 
