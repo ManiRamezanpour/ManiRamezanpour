@@ -38,13 +38,13 @@ I am **ManiRamezanpour(JavaScript Software Developer)**. I ✨ like ✨  problem
 
 
 ## 💼 Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,nodejs,mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,java,HTML,css,mongodb,mysql,postgres)](https://skillicons.dev)
 </br>
 
 ### 🧰 Frameworks and Libraries :
-[![My Skills](https://skillicons.dev/icons?i=react,redux,express,nestjs,prisma,tailwind,bootstrap,mui,swiper)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,nestjs,prisma,typeorm,reactjs,nextjs,jest,rabbitmq,vite,,tailwind,bootstrap,mui,swiper)](https://skillicons.dev)
 ### 💻 Software and Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,git,github,nginx,docker,k8n,kafka)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,git,github,nginx,docker,,kafka)](https://skillicons.dev)
 
 
 
