@@ -3,9 +3,10 @@
 
 I am **ManiRamezanpour(JavaScript Software Developer)**. I ✨ like ✨  problem solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
 
-- 🔭 I’m currently working on Node JS 
-- 🌱 I’m currently learning Devops
-<!-- - 🤔 I’m looking for help with on new business ideas. -->
+- 🔭 I’m currently working on Node JS scalable applications
+- 🌱 I’m currently learning system architecture
+- 🤓 I’m diving deep into designing robust and efficient systems.
+- 
 - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , traveling ✈️, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
 - 📫 How to reach me:DM 📱 emailmaniramznpoor2007@gmail.com.
 
