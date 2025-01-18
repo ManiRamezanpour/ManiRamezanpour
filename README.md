@@ -47,7 +47,7 @@ I am **ManiRamezanpour(JavaScript Software Developer)**. I ✨ like ✨  problem
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,postman,webstorm,ps,git,github,gitlab,nginx,docker,kafka)](https://skillicons.dev)
 
 ##  Other programming Skills
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,svelet,c++,c#,astro,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,svelet,csharp,astro,arduino)](https://skillicons.dev)
 
 ## 📈 GitHub Stats 
 
